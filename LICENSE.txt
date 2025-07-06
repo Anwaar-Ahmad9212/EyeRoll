@@ -1,0 +1,16 @@
+EyeRoll - Personal Use License
+Copyright (c) 2025 Muhammad Anwaar Ahmad
+
+This software (EyeRoll) is provided for **personal, non-commercial use only**.  
+By downloading, accessing, or using this software, you **inherently agree** to all the terms and assume full responsibility for fair and lawful use.
+
+You are **NOT permitted** to:
+- Deploy this software publicly (e.g., websites, SaaS platforms, or public demos)
+- Use it for any commercial or revenue-generating purpose
+- Modify, decompile, reverse engineer, or redistribute any part of the software
+- Share or host the source code or executable files
+
+All commercial rights, including distribution, modification, and deployment, are **exclusively reserved** by the author.
+
+This software is provided "as-is", without any warranties.  
+Unauthorized use or violation of these terms may result in legal action.
